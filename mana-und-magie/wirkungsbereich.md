@@ -6,4 +6,4 @@ Bei allen Zaubern gibt es nur neun einzigartige Radien für AoEs \[→ 6; 7; 8; 
 
 Um eine Vorstellung von der Größe von AoEs im Spiel zu bekommen, ist es nützlich zu wissen, dass ein kleiner Turm einen Radius von 32 Kacheln erreicht und ein Bogenschütze am Boden eine Reichweite von 15 Kacheln hat.
 
-![](../.gitbook/assets/mana\_and\_magic.jpg)
+<figure><img src="../../assets/mana_and_magic.jpg" alt=""><figcaption></figcaption></figure>
