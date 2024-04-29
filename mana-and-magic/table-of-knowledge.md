@@ -45,8 +45,12 @@
 
 
 
-¹ anfängliche Manakosten\
-² Radius des Wirkungsbereiches\
-³ kann nicht auf Soldaten gewirkt werden, die einem Turm angehören\
-⁴ kann auf Soldaten gewirkt werden, die sich oben auf dem Turm, an der Tür oder beim Versuch, den Turm zu betreten, befinden\
+¹ anfängliche Manakosten
+
+² Radius des Wirkungsbereiches
+
+³ kann nicht auf Soldaten gewirkt werden, die einem Turm angehören
+
+⁴ kann auf Soldaten gewirkt werden, die sich oben auf dem Turm, an der Tür oder beim Versuch, den Turm zu betreten, befinden
+
 ⁵ kann gestapelt werden
